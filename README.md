@@ -5,7 +5,7 @@ Create an AWS EC2 instance using Terraform.
 
 ## Resources Created
 - **AMI:** Amazon Linux (ami-0f58b397bc5c1f2e8)
-- **Instance Type:** t2.micro
+- **Instance Type:** t3.micro
 - **Tags:** Name = Terraform-Student-Instance
 
 ## Commands Used
